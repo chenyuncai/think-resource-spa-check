@@ -1,7 +1,7 @@
 {
   "name": "think-resource-spa",
   "description": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {"name": "Ray Chen<ray_chenyuncai@163.com>"},
   "scripts": {
     "test": "mocha --reporter spec --timeout 5000 --recursive test/",
@@ -29,11 +29,11 @@
     "babel-eslint": "4.1.3"
   },
   "keywords": [
-    "thinkjs"
+    "thinkjs spa"
   ],
   "repository": {
     "type": "git",
-    "url": "<Github URL>"
+    "url": "https://github.com/chenyuncai/think-resource-spa-check"
   },
   "engines": {
     "node": ">=0.12.0"
